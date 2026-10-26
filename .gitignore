@@ -1,2 +1,4 @@
 venv/
 fake-reviews.csv
+processed-dataset.csv
+__pycache__/
